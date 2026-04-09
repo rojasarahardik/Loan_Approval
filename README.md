@@ -1,2 +1,10 @@
 # Loan-Approval-Prediction
-A machine learning project its a my personal project. The prime objective of my project was to use machine learning and data analysis techniques to classify whether the loan of an applicant will be approved by the bank or not.
+•	Developed a machine learning model to predict loan approval status based on applicant data 
+•	Performed data preprocessing including handling missing values, encoding categorical variables,and feature scaling 
+•	Conducted exploratory data analysis (EDA) to identify patterns and relationships in the dataset 
+•	Implemented classification algorithms such as Logistic Regression and Random Forest 
+•	Evaluated model performance using metrics like accuracy and improved predictions through model tuning 
+Visualized data insights using Matplotlib and Seaborn 
+Tools & Technologies: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn 
+ 
+
